@@ -1,5 +1,4 @@
 const rootPath = "https://back.seunghyeon.site";
-const
 
 const GET_HERITAGE_API_URL = `${rootPath}/heritage`;
 const GET_FESTIVAL_API_URL = `${rootPath}/festival`;
